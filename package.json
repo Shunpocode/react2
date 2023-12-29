@@ -2,7 +2,7 @@
   "name": "react-bootstrap",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shunpocode.github.io/react-bootstrap/",
+  "homepage": "https://shunpocode.github.io/react2/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
